@@ -24,6 +24,12 @@ If the answer for the i-th query exists, then print such a rearrangment of lette
 If there are multiple answers, print any of them.
 
 Otherwise print "No answer" for that query.
+
+Ideas:  satisfy the condition : the qeustion has at least a solution when that the difference 
+
+between the largest num in [odd] and the least num in [even] equals 1 and  that the difference 
+
+between the largest num in [odd] and the least num in [even]  equals 1 don't occur at the same time
 */
 #include <bits/stdc++.h>
 
